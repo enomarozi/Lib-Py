@@ -1,2 +1,0 @@
-# Lib-Py
-My Library
